@@ -11,7 +11,7 @@
 ## Installing
 
 You will need to install
-* [**matplotlib**](https://matplotlib.org/)
+* [**Matplotlib**](https://matplotlib.org/)
 * [**Pillow**](https://pypi.org/project/Pillow/)
 
 They can be installed in your machine with the following commands:

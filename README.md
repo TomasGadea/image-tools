@@ -31,11 +31,11 @@ To resize an image run ```python3 resize.py``` with the following arguments _(if
 
 One of these two is compulsory:
 
-* ```--scale```: a real number greater than 0 _(excluded)_
+* ```--scale```: a real number strictly greater than 0 
 
 or
 
-* ```--size```: two integers both greater than 0 _(excluded)_
+* ```--size```: two integers both strictly greater than 0 
 
 You must add:
 
